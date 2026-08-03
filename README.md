@@ -3,9 +3,7 @@
 
 <!-- Animated typing tagline -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8FD8FF&center=true&vCenter=true&width=600&lines=Building+AI+%26+Machine+Learning+projects;Chatbots+%2B+NLP+%2B+Classification;Turning+ideas+into+real+products+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8FD8FF&center=true&vCenter=true&width=600&lines=Building+AI+%26+Machine+Learning+projects;Chatbots+%2B+NLP+%2B+Classification;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
